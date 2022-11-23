@@ -1,0 +1,2 @@
+syntax error in line 60 at "nothing"
+1 error(s) found

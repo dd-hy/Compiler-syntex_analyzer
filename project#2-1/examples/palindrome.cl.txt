@@ -1,0 +1,3 @@
+syntax error in line 18 at "a"
+syntax error in line 20 at "was"
+2 error(s) found

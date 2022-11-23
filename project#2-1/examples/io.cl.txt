@@ -1,0 +1,6 @@
+syntax error in line 1 at "("
+syntax error in line 64 at "B"
+syntax error in line 73 at "C"
+syntax error in line 84 at "D"
+syntax error in line 99 at "Done"
+5 error(s) found

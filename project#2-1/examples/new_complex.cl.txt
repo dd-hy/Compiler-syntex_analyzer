@@ -1,0 +1,4 @@
+syntax error in line 7 at "="
+syntax error in line 12 at "="
+syntax error in line 35 at "+"
+3 error(s) found

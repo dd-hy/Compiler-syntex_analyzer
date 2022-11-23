@@ -1,0 +1,11 @@
+syntax error in line 1 at "("
+syntax error in line 103 at ")"
+syntax error in line 105 at ","
+syntax error in line 107 at ")"
+syntax error in line 151 at "("
+syntax error in line 260 at ")"
+syntax error in line 288 at "}"
+syntax error in line 290 at ":"
+syntax error in line 302 at "fi"
+syntax error in line 309 at "-"
+10 error(s) found

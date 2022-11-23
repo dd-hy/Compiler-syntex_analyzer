@@ -1,0 +1,8 @@
+syntax error in line 17 at ":"
+syntax error in line 18 at ":"
+syntax error in line 39 at ":"
+syntax error in line 46 at "("
+syntax error in line 96 at "-"
+syntax error in line 117 at "Compilers"
+syntax error in line 121 at "The"
+7 error(s) found
